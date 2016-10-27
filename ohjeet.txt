@@ -6,8 +6,8 @@
 
 4. git add foo.txt						# Heitetään foo.txt tiedosto ".git" -hakemistoon
 
-5. git config user.email markustirronen@gmail.com		# Määritellään tunnistautuminen
-   git config user.name markustirronen
+5. git config --global user.email markustirronen@gmail.com		# Määritellään tunnistautuminen
+   git config --global user.name markustirronen
 
 6. git commit -m "kotitehtävä 1."				# Commit nimi on "kotitehtävä 1."
 
