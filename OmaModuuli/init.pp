@@ -32,3 +32,4 @@ class sshjafail2ban {
                 provider => systemd,
         }
 }
+
